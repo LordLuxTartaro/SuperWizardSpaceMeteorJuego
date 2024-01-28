@@ -3,3 +3,6 @@ Jugar al un juego de naves espaciales 1 jugador, 2 vs jugadores con un solo disp
 
 
 Proyecto para usar libremente y para uso comercial. Opcional acreditar al autor, aunque se agradece.
+
+Link para jugar: https://lordluxtartaro.github.io/SuperWizardSpaceMeteorJuego/
+
